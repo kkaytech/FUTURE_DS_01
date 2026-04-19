@@ -43,12 +43,11 @@ The goal is to derive actionable insights that can help a business improve profi
 
 ##  Project Structure
 FUTURE_DS_01
-│
-├── data/
-├── notebooks/
-├── visuals/
-├── powerbi_dashboard.pbix
-└── README.md
+── data/
+── notebooks/
+── visuals/
+── powerbi_dashboard.pbix
+── README.md
 
 ## 🚀 Conclusion
 This project demonstrates how data analysis can be used to uncover meaningful business insights and support strategic decision-making.
