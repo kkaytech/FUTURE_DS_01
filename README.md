@@ -41,9 +41,6 @@ The goal is to derive actionable insights that can help a business improve profi
 - Leverage seasonal trends to maximize Q4 revenue  
 - Optimize underperforming product segments  
 
-##  Dashboard Preview
-(Add screenshots from your Power BI dashboard here)
-
 ##  Project Structure
 FUTURE_DS_01
 │
