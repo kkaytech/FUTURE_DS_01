@@ -1,4 +1,3 @@
-# FUTURE_DS_01 Data Science & Analytics Internship Project
 # Business Sales Performance Analytics
 
 ## Overview
